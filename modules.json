@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Magisk 系统增强",
+    "author": "七宝",
+    "version": "1.0",
+    "type": "Magisk",
+    "description": "解锁系统限制，提高性能，适配 Android 12+",
+    "download": "https://wwa.lanzouy.com/example_magisk.zip",
+    "icon": "https://raw.githubusercontent.com/qibao-mods/icons/magisk.png"
+  },
+  {
+    "name": "Xposed 自定义通知",
+    "author": "七宝",
+    "version": "2.1",
+    "type": "Xposed",
+    "description": "自定义状态栏通知样式和颜色，兼容常用 ROM",
+    "download": "https://wwa.lanzouy.com/example_xposed.apk",
+    "icon": "https://raw.githubusercontent.com/qibao-mods/icons/xposed.png"
+  },
+  {
+    "name": "刷机工具箱 APP",
+    "author": "七宝",
+    "version": "1.2",
+    "type": "APP",
+    "description": "刷机、备份、清理一体化工具箱",
+    "download": "https://wwa.lanzouy.com/example_toolbox.apk",
+    "icon": "https://raw.githubusercontent.com/qibao-mods/icons/toolbox.png"
+  }
+]
