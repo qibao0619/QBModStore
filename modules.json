@@ -8,6 +8,14 @@
       "icon": "https://example.com/magisk_icon.png"
     }
   ],
+   {
+      "name": "Magisk 隐藏模块",
+      "author": "测试作者",
+      "description": "隐藏ROOT状态，支持大多数APP",
+      "download": "https://你的下载链接.zip",
+      "icon": "https://你的图标链接.png"
+    }
+  ],
   "Xposed": [
     {
       "name": "Xposed 模块示例",
