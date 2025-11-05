@@ -1,32 +1,29 @@
 {
   "Magisk": [
     {
-      "name": "Magisk 系统增强",
+      "name": "Magisk 模块示例",
       "author": "七宝",
-      "version": "1.0",
-      "description": "解锁系统限制，提高性能，适配 Android 12+",
-      "download": "https://wwa.lanzouy.com/example_magisk.zip",
-      "icon": "https://raw.githubusercontent.com/qibao0619/QBModStore/main/icons/magisk.png"
+      "description": "这是一个 Magisk 模块示例，用于测试 APP 显示",
+      "download": "https://example.com/magisk_module.zip",
+      "icon": "https://example.com/magisk_icon.png"
     }
   ],
   "Xposed": [
     {
-      "name": "Xposed 自定义通知",
+      "name": "Xposed 模块示例",
       "author": "七宝",
-      "version": "2.1",
-      "description": "自定义状态栏通知样式和颜色，兼容常用 ROM",
-      "download": "https://wwa.lanzouy.com/example_xposed.apk",
-      "icon": "https://raw.githubusercontent.com/qibao0619/QBModStore/main/icons/xposed.png"
+      "description": "这是一个 Xposed 模块示例，用于测试 APP 显示",
+      "download": "https://example.com/xposed_module.zip",
+      "icon": "https://example.com/xposed_icon.png"
     }
   ],
   "APP": [
     {
-      "name": "刷机工具箱 APP",
+      "name": "APP 示例",
       "author": "七宝",
-      "version": "1.2",
-      "description": "刷机、备份、清理一体化工具箱",
-      "download": "https://wwa.lanzouy.com/example_toolbox.apk",
-      "icon": "https://raw.githubusercontent.com/qibao0619/QBModStore/main/icons/toolbox.png"
+      "description": "这是一个普通 APK 示例，用于测试 APP 显示",
+      "download": "https://example.com/app.apk",
+      "icon": "https://example.com/app_icon.png"
     }
   ]
 }
