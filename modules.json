@@ -1,46 +1,115 @@
 {
   "Magisk": [
     {
-      "name": "Magisk 模块示例",
-      "author": "七宝",
-      "description": "这是一个 Magisk 模块示例，用于测试 APP 显示",
-      "download": "https://example.com/magisk_module.zip",
-      "icon": "https://example.com/magisk_icon.png"
-    }
-  ],
-   {
       "name": "Magisk 隐藏模块",
-      "author": "测试作者",
-      "description": "隐藏ROOT状态，支持大多数APP",
-      "download": "https://你的下载链接.zip",
-      "icon": "https://你的图标链接.png"
+      "author": "topjohnwu",
+      "description": "隐藏 ROOT 状态，规避大多数 APP 的 Root 检测，支持 Android 10-14",
+      "download": "https://your-link.com/magisk-hide.zip",
+      "icon": "https://your-icon.com/magisk-hide.png"
+    },
+    {
+      "name": "Systemless Hosts",
+      "author": "Magisk Team",
+      "description": "无系统分区修改的 Hosts 管理模块，支持广告屏蔽、网站拦截",
+      "download": "https://your-link.com/systemless-hosts.zip",
+      "icon": "https://your-icon.com/hosts.png"
+    },
+    {
+      "name": "LSPosed 依赖模块",
+      "author": "LSPosed Team",
+      "description": "LSPosed 框架运行必需依赖，提供 Xposed 核心 API 支持",
+      "download": "https://your-link.com/lsposed-core.zip",
+      "icon": "https://your-icon.com/lsposed.png"
+    },
+    {
+      "name": "分辨率修改模块",
+      "author": "DisplayDev",
+      "description": "自定义屏幕分辨率和刷新率，支持 1080P/2K/4K 切换，优化续航",
+      "download": "https://your-link.com/resolution-changer.zip",
+      "icon": "https://your-icon.com/resolution.png"
     }
   ],
   "Xposed": [
     {
-      "name": "Xposed 模块示例",
-      "author": "七宝",
-      "description": "这是一个 Xposed 模块示例，用于测试 APP 显示",
-      "download": "https://example.com/xposed_module.zip",
-      "icon": "https://example.com/xposed_icon.png"
-    }
-  ],
-   "Xposed": [
+      "name": "XPrivacyLua",
+      "author": "M66B",
+      "description": "隐私保护模块，控制 APP 权限访问（位置、通讯录、相机等）",
+      "download": "https://your-link.com/xprivacylua.apk",
+      "icon": "https://your-icon.com/xprivacylua.png"
+    },
     {
-      "name": "Xposed 模块示例2",
-      "author": "七宝",
-      "description": "这是一个 Xposed 模块示例，用于测试 APP 显示",
-      "download": "https://example.com/xposed_module.zip",
-      "icon": "https://example.com/xposed_icon.png"
+      "name": "阻止运行",
+      "author": "wanam",
+      "description": "禁用系统/APP 后台服务和广播，减少耗电和内存占用",
+      "download": "https://your-link.com/stopapp.apk",
+      "icon": "https://your-icon.com/stopapp.png"
+    },
+    {
+      "name": "应用变量",
+      "author": "bugzy",
+      "description": "为不同 APP 设置独立的系统变量（字体、分辨率、语言等）",
+      "download": "https://your-link.com/appvar.apk",
+      "icon": "https://your-icon.com/appvar.png"
+    },
+    {
+      "name": "YouTube 去广告",
+      "author": "XposedMods",
+      "description": "移除 YouTube 视频广告、跳过开屏广告，支持后台播放",
+      "download": "https://your-link.com/youtube-adaway.apk",
+      "icon": "https://your-icon.com/youtube.png"
     }
   ],
   "APP": [
     {
-      "name": "APP 示例",
-      "author": "七宝",
-      "description": "这是一个普通 APK 示例，用于测试 APP 显示",
-      "download": "https://example.com/app.apk",
-      "icon": "https://example.com/app_icon.png"
+      "name": "MT管理器",
+      "author": "Zhuangku556",
+      "description": "高级文件管理器，支持 APK 编辑、签名、反编译，Root 用户必备",
+      "download": "https://your-link.com/mt-manager.apk",
+      "icon": "https://your-icon.com/mt.png"
+    },
+    {
+      "name": "鲨鱼记账",
+      "author": "鲨鱼团队",
+      "description": "简洁无广告的记账 APP，支持分类统计、预算设置、数据备份",
+      "download": "https://your-link.com/shark-book.apk",
+      "icon": "https://your-icon.com/shark.png"
+    },
+    {
+      "name": "MX 播放器",
+      "author": "J2 Interactive",
+      "description": "支持全格式视频播放，硬件加速、字幕同步，无广告纯净版",
+      "download": "https://your-link.com/mx-player.apk",
+      "icon": "https://your-icon.com/mx.png"
+    },
+    {
+      "name": "纯纯写作",
+      "author": "纯纯团队",
+      "description": "无打扰写作工具，自动备份、Markdown 支持，本地存储隐私安全",
+      "download": "https://your-link.com/chunchun-write.apk",
+      "icon": "https://your-icon.com/chunchun.png"
+    },
+    {
+      "name": "AdGuard 广告拦截",
+      "author": "AdGuard Team",
+      "description": "全局广告拦截，支持浏览器、APP 广告过滤，保护隐私",
+      "download": "https://your-link.com/adguard.apk",
+      "icon": "https://your-icon.com/adguard.png"
+    }
+  ],
+  "Kernel": [
+    {
+      "name": "ElementalX 内核",
+      "author": "flar2",
+      "description": "性能与续航平衡，支持 CPU 超频、温控调节、快充优化",
+      "download": "https://your-link.com/elementalx-kernel.zip",
+      "icon": "https://your-icon.com/elementalx.png"
+    },
+    {
+      "name": "FrancoKernel",
+      "author": "franciscofranco",
+      "description": "轻量优化内核，提升系统流畅度，降低功耗，支持自定义调教",
+      "download": "https://your-link.com/franco-kernel.zip",
+      "icon": "https://your-icon.com/franco.png"
     }
   ]
 }
