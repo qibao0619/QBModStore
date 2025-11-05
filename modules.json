@@ -8,21 +8,21 @@
       "icon": "https://your-icon.com/magisk-hide.png"
     },
     {
-      "name": "Systemless Hosts",
+      "name": "测试002",
       "author": "Magisk Team",
       "description": "无系统分区修改的 Hosts 管理模块，支持广告屏蔽、网站拦截",
       "download": "https://your-link.com/systemless-hosts.zip",
       "icon": "https://your-icon.com/hosts.png"
     },
     {
-      "name": "LSPosed 依赖模块",
+      "name": "测试003",
       "author": "LSPosed Team",
       "description": "LSPosed 框架运行必需依赖，提供 Xposed 核心 API 支持",
       "download": "https://your-link.com/lsposed-core.zip",
       "icon": "https://your-icon.com/lsposed.png"
     },
     {
-      "name": "分辨率修改模块",
+      "name": "测试004",
       "author": "DisplayDev",
       "description": "自定义屏幕分辨率和刷新率，支持 1080P/2K/4K 切换，优化续航",
       "download": "https://your-link.com/resolution-changer.zip",
