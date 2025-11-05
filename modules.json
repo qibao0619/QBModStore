@@ -64,52 +64,36 @@
       "name": "MT管理器",
       "author": "Zhuangku556",
       "description": "高级文件管理器，支持 APK 编辑、签名、反编译，Root 用户必备",
-      "download": "https://your-link.com/mt-manager.apk",
+      "download": "https://www.123865.com/s/8ullVv-hVuRA",
       "icon": "https://your-icon.com/mt.png"
     },
     {
-      "name": "鲨鱼记账",
+      "name": "scene学习版",
       "author": "鲨鱼团队",
       "description": "简洁无广告的记账 APP，支持分类统计、预算设置、数据备份",
-      "download": "https://your-link.com/shark-book.apk",
+      "download": "https://www.123865.com/s/8ullVv-XTURA",
       "icon": "https://your-icon.com/shark.png"
     },
     {
-      "name": "MX 播放器",
+      "name": "爱玩机管理器",
       "author": "J2 Interactive",
       "description": "支持全格式视频播放，硬件加速、字幕同步，无广告纯净版",
-      "download": "https://your-link.com/mx-player.apk",
+      "download": "https://www.123684.com/s/8ullVv-2TURA",
       "icon": "https://your-icon.com/mx.png"
     },
     {
-      "name": "纯纯写作",
+      "name": "酷安",
       "author": "纯纯团队",
       "description": "无打扰写作工具，自动备份、Markdown 支持，本地存储隐私安全",
       "download": "https://your-link.com/chunchun-write.apk",
-      "icon": "https://your-icon.com/chunchun.png"
+      "icon": "https://www.123865.com/s/8ullVv-AVuRA"
     },
     {
-      "name": "AdGuard 广告拦截",
+      "name": "牛头30",
       "author": "AdGuard Team",
       "description": "全局广告拦截，支持浏览器、APP 广告过滤，保护隐私",
-      "download": "https://your-link.com/adguard.apk",
+      "download": "https://www.123865.com/s/8ullVv-ajuRA",
       "icon": "https://your-icon.com/adguard.png"
-    }
-  ],
-  "Kernel": [
-    {
-      "name": "ElementalX 内核",
-      "author": "flar2",
-      "description": "性能与续航平衡，支持 CPU 超频、温控调节、快充优化",
-      "download": "https://your-link.com/elementalx-kernel.zip",
-      "icon": "https://your-icon.com/elementalx.png"
-    },
-    {
-      "name": "FrancoKernel",
-      "author": "franciscofranco",
-      "description": "轻量优化内核，提升系统流畅度，降低功耗，支持自定义调教",
-      "download": "https://your-link.com/franco-kernel.zip",
-      "icon": "https://your-icon.com/franco.png"
     }
   ]
 }
