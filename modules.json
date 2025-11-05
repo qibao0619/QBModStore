@@ -17,6 +17,15 @@
       "icon": "https://example.com/xposed_icon.png"
     }
   ],
+   "Xposed": [
+    {
+      "name": "Xposed 模块示例2",
+      "author": "七宝",
+      "description": "这是一个 Xposed 模块示例，用于测试 APP 显示",
+      "download": "https://example.com/xposed_module.zip",
+      "icon": "https://example.com/xposed_icon.png"
+    }
+  ],
   "APP": [
     {
       "name": "APP 示例",
