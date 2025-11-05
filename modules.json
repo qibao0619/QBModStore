@@ -1,7 +1,7 @@
 {
   "Magisk": [
     {
-      "name": "Magisk 隐藏模块",
+      "name": "测试001",
       "author": "topjohnwu",
       "description": "隐藏 ROOT 状态，规避大多数 APP 的 Root 检测，支持 Android 10-14",
       "download": "https://your-link.com/magisk-hide.zip",
